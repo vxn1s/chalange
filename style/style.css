@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.ctverec{
+    width: 600px;
+    height:500px;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.karta{
+    background-color: grey;
+    width: 296px;
+    height: 173px;
+    border-radius: 20px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.obrazek img{
+    height: 43px;
+}
+.obrazek{
+    display: flex;
+}
+h1{
+    color: white;
+}
